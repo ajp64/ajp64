@@ -1,3 +1,5 @@
+<img src="https://github.com/ajp64/ajp64/blob/main/img/GitHubBanner.png" alt="Image showing Antony Parnell Banner">
+
 ### Hi there 👋
 
 <!--
