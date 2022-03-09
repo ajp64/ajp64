@@ -1,6 +1,8 @@
 <img src="https://github.com/ajp64/ajp64/blob/main/img/GitHubBanner.png" alt="Image showing Antony Parnell Banner">
 
-### Hi there 👋
+## I'm Antony Parnell, a software developer looking for my first role in industry. I'm looking forward to learning a whole bunch of new tech things, getting stuck, then figuring out the way forward 😁.  Check out some of my projects below!
+
+### [Campfire, an app for School of Code bootcampers to reflect and provide feedback](https://github.com/SchoolOfCode/national-project-week-repo-2-juan-dan-ben-antony)
 
 <!--
 **ajp64/ajp64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
