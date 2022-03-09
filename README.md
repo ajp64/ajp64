@@ -2,11 +2,11 @@
 
 #### I'm Antony Parnell, a software developer looking for my first role in industry. I'm looking forward to learning a whole bunch of new tech things, getting stuck, then figuring out the way forward 😄.  Check out some of my projects below!
 
-### 🔥[Campfire, an app for School of Code bootcampers to reflect and provide feedback](https://github.com/SchoolOfCode/national-project-week-repo-2-juan-dan-ben-antony)
+### 🔥 [Campfire, an app for School of Code bootcampers to reflect and provide feedback](https://github.com/SchoolOfCode/national-project-week-repo-2-juan-dan-ben-antony)
 
-### 🎮[The Legend of Koda, a coding based puzzle game](https://github.com/ajp64/gametest)
+### 🎮 [The Legend of Koda, a coding based puzzle game](https://github.com/ajp64/gametest)
 
-### 🎵[My Spotify 2021, a full stack app which allows a user to checkout what I listened to last year (Still in progress!)](https://my-spotify-2021.herokuapp.com/)
+### 🎵 [My Spotify 2021, a full stack app which allows a user to checkout what I listened to last year (Still in progress!)](https://my-spotify-2021.herokuapp.com/)
 
 ## ⚡ Technologies
 
