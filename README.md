@@ -22,7 +22,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=netlify)
 ![Cypress](https://img.shields.io/badge/-Cypress-darkblue?style=flat-square&logo=cypress)
 
-## Where to find me
+## 👀 Where to find me
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ajp64)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/antony-parnell/)
 
