@@ -23,8 +23,8 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-darkblue?style=flat-square&logo=cypress)
 
 ## 📈 Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ajp64&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajp64&hide=TeX&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajp64)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajp64&hide=TeX&layout=compact)
 <!--
 **ajp64/ajp64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
