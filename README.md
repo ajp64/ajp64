@@ -8,7 +8,7 @@
 
 ### 🎮 [The Legend of Koda, a coding based puzzle game](https://github.com/ajp64/gametest)
 
-### 🎵 [My Spotify 2021, a full stack app which allows a user to checkout what I listened to last year (Still in progress!)](https://my-spotify-2021.herokuapp.com/)
+### 🎵 [My Spotify 2021, a responsive full stack app which allows a user to checkout what I listened to last year (Still in progress!)](https://my-spotify-2021.herokuapp.com/)
 
 ## ⚡ Technologies
 
