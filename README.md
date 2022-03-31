@@ -29,7 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/antony-parnell/)
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajp64)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajp64&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajp64&hide=TeX&layout=compact)
 
 
