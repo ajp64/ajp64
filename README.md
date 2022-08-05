@@ -1,6 +1,6 @@
 <img src="https://github.com/ajp64/ajp64/blob/main/img/GitHubBanner.png" alt="Image showing Antony Parnell Banner">
 
-### I'm Antony Parnell, a new software developer at Resonate. I'm looking forward to learning a whole bunch of new tech things, getting stuck, then figuring out the way forward 😄.  Check out some of my projects below!
+### I'm Antony Parnell, a new software developer at [Resonate](https://www.resonate.tech/ui/content/content.aspx?id=7). I'm looking forward to learning a whole bunch of new tech things, getting stuck, then figuring out the way forward 😄.  Check out some of my projects below!
 
 ### 🥬 [Nourish, a mobile app to inspire and educate users to eat in season produce](https://github.com/SchoolOfCode/final-project-repo-restful-journey)
 
