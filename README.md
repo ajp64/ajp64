@@ -1,6 +1,8 @@
 <img src="https://github.com/ajp64/ajp64/blob/main/img/GitHubBanner.png" alt="Image showing Antony Parnell Banner">
 
-### I'm Antony Parnell, a new software developer at [Resonate](https://www.resonate.tech/ui/content/content.aspx?ID=85). I'm looking forward to learning a whole bunch of new tech things, getting stuck, then figuring out the way forward 😄.  Check out some of my projects below!
+### I'm Antony Parnell, a software developer at [Resonate](https://www.resonate.tech/ui/content/content.aspx?ID=85). I'm looking forward to learning a whole bunch of new tech things, getting stuck, then figuring out the way forward 😄.  Check out some of my projects below!
+
+### 📓 [Frank's War Diary, a website about my Grandfather's diary of his time in World War 2](https://frankparnellwardiary.info)
 
 ### 🥬 [Nourish, a mobile app to inspire and educate users to eat in season produce](https://github.com/SchoolOfCode/final-project-repo-restful-journey)
 
@@ -8,11 +10,14 @@
 
 ### 🎮 [The Legend of Koda, a coding based puzzle game](https://github.com/ajp64/gametest)
 
-### 🎵 [My Spotify 2021, a responsive full stack app which allows a user to checkout what I listened to last year](https://my-spotify-2021.netlify.app/)
+### 🎵 [My Spotify 2021, a responsive full stack app which allows a user to checkout what I listened to in 2021](https://my-spotify-2021.netlify.app/)
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-lightblue?style=flat-square&logo=angular)
+![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=Java)
+![Spring](https://img.shields.io/badge/-Spring-darkgreen?style=flat-square&logo=Spring)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
