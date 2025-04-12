@@ -1,6 +1,6 @@
 <img src="https://github.com/ajp64/ajp64/blob/main/img/GitHubBanner.png" alt="Image showing Antony Parnell Banner">
 
-### I'm Antony Parnell, a software developer at [Resonate](https://www.resonate.tech/ui/content/content.aspx?ID=85). I'm looking forward to learning a whole bunch of new tech things, getting stuck, then figuring out the way forward 😄.  Check out some of my projects below!
+### I'm Antony Parnell, a software developer at [Resonate](resonate.tech). I'm looking forward to learning a whole bunch of new tech things, getting stuck, then figuring out the way forward 😄.  Check out some of my projects below!
 
 ### 📓 [Frank's War Diary, a website about my Grandfather's diary of his time in World War 2](https://frankparnellwardiary.info)
 
