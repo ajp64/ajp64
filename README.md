@@ -6,8 +6,6 @@
 
 ### 🥬 [Nourish, a mobile app to inspire and educate users to eat in season produce](https://github.com/SchoolOfCode/final-project-repo-restful-journey)
 
-### 🔥 [Campfire, an app for School of Code bootcampers to reflect and provide feedback](https://github.com/SchoolOfCode/national-project-week-repo-2-juan-dan-ben-antony)
-
 ### 🎮 [The Legend of Koda, a coding based puzzle game](https://github.com/ajp64/gametest)
 
 ### 🎵 [My Spotify 2021, a responsive full stack app which allows a user to checkout what I listened to in 2021](https://my-spotify-2021.netlify.app/)
@@ -30,7 +28,6 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-darkblue?style=flat-square&logo=cypress)
 
 ## 👀 Where to find me
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ajp64)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/antony-parnell/)
 
 ## 📈 GitHub Stats
