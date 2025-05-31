@@ -4,11 +4,11 @@
 
 ### 📓 [Frank's War Diary, a website about my Grandfather's diary of his time in World War 2](https://frankparnellwardiary.info)
 
-### 🥬 [Nourish, a mobile app to inspire and educate users to eat in season produce](https://github.com/SchoolOfCode/final-project-repo-restful-journey)
+### 🎵 [My Spotify 2021, a responsive full stack app which allows a user to checkout what I listened to in 2021](https://my-spotify-2021.netlify.app/)
 
 ### 🎮 [The Legend of Koda, a coding based puzzle game](https://github.com/ajp64/gametest)
 
-### 🎵 [My Spotify 2021, a responsive full stack app which allows a user to checkout what I listened to in 2021](https://my-spotify-2021.netlify.app/)
+### 🥬 [Nourish, a mobile app to inspire and educate users to eat in season produce](https://github.com/SchoolOfCode/final-project-repo-restful-journey)
 
 ## ⚡ Technologies
 
