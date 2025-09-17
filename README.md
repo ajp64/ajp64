@@ -30,12 +30,6 @@
 ## 👀 Where to find me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/antony-parnell/)
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajp64&hide=TeX&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajp64&show_icons=true&theme=radical)
-
-
-
 <!--
 **ajp64/ajp64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
